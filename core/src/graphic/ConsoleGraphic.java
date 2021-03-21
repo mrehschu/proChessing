@@ -12,12 +12,12 @@ import logic.Pos;
  */
 public class ConsoleGraphic implements GUIController {
 	
-	/*public static void main(String[] args) {
+	public static void main(String[] args) {
 		
 		GUIController myChessGame = new ConsoleGraphic();
 		myChessGame.run();
 		
-	}*/
+	}
 	
 	private boolean exit = false;
 	
