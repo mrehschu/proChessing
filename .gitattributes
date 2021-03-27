@@ -1,1 +1,2 @@
-core/doc/* linguist-documentation
+core/doc linguist-documentation
+*.pde linguist-language=Java
