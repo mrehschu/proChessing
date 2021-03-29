@@ -1,2 +1,3 @@
 core/doc/* linguist-vendored
+*html linguist-vendored
 *.pde linguist-language=Java
